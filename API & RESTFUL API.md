@@ -24,6 +24,14 @@
 
 A **REST API** (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services. **REST stands for representational state transfer** and was created by computer scientist Roy Fielding.
 
-> A REST API is an intermediary API that **enables two applications to communicate with each other over HTTP**, much like how servers communicate to browsers.
+> A REST API is an intermediary API that **enables two applications to communicate with each other over HTTP**, much like how servers communicate to browsers. We are able to communicate with servers using the HTTP protocol.
+
+> A REST API conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.
+
+> REST is a set of** architectural constraints**, not a protocol or a standard
 
 
+
+
+**REST and HTTP are not the same!**
+> REST != HTTP
