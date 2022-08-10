@@ -31,6 +31,13 @@ A **REST API** (also known as RESTful API) is an application programming interfa
 > REST is a set of **architectural constraints**, not a protocol or a standard
 
 
+### **Endpoints：**
+
+API endpoints 為前後端之間的溝通窗口，若前端要串接 API 時，就是透過 API endpoints 取得資源
+
+**An endpoint is one end of a communication channel**. When an API interacts with another system, the touchpoints of this communication are considered endpoints. For APIs, an endpoint can include a **URL** of a server or service. Each endpoint is the location from which APIs can access the resources they need to carry out their function.
+
+APIs work using ‘requests’ and ‘responses.’ When an API requests information from a web application or web server, it will receive a response. The place that APIs send requests and where the resource lives, is called an endpoint.
 
 
 **REST and HTTP are not the same!**
