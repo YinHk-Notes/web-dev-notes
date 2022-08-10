@@ -36,7 +36,8 @@ The domain who's resources are being requested can respond to the first domain w
 
 > CORS also relies on a mechanism by which browsers make a **"preflight request** to the server hosting the **cross-origin resource**, in order to check that the server will permit the actual request. In that **preflight**, the browser sends headers that indicate the HTTP method and headers that will be used in the actual request.
 
-> An example of a cross-origin request:  the front-end JavaScript code served from `https://domain-a.com` uses [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) to make a request for `https://domain-b.com/data.json`.
+> An example of a cross-origin request:  
+> the front-end JavaScript code served from `https://domain-a.com` uses [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) to make a request for `https://domain-b.com/data.json`.
 
 > For security reasons, **browsers restrict cross-origin HTTP requests** initiated from scripts. For example, `XMLHttpRequest` and the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) follow the [**same-origin policy**](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy). This means that a **web application using those APIs can only request resources from the same origin the application was loaded from unless the response from other origins includes the right CORS headers**.
 
