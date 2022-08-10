@@ -28,7 +28,7 @@ A **REST API** (also known as RESTful API) is an application programming interfa
 
 > A REST API conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.
 
-> REST is a set of architectural constraints**, not a protocol or a standard
+> REST is a set of **architectural constraints**, not a protocol or a standard
 
 
 
