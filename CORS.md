@@ -5,6 +5,8 @@
 ***Cross-Origin Resource Sharing (CORS)*** is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources. 
 
 
+**Cross-origin resource sharing (CORS)** is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
+
 | Attribute | Description |
 | --- | --- |
 | origins | List of allowed origins. It’s value is placed in the Access-Control-Allow-Origin header of both the pre-flight response and the actual response."*" – means that all origins are allowed. If undefined, all origins are allowed. |
