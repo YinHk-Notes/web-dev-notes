@@ -8,3 +8,13 @@
 ### cookies
 > An HTTP cookie (web cookie, browser cookie) is a **small piece of data** that a **server sends to a user's web browser. **
   
+Cookies are mainly used for three purposes:
+
+- Session management
+  Logins, shopping carts, game scores, or anything else the server should remember
+
+- Personalization
+  User preferences, themes, and other settings
+
+- Tracking
+  Recording and analyzing user behavior
