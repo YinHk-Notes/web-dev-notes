@@ -1,4 +1,4 @@
-## cache & cookery
+## cache & cookies
 ### HTTP caching
 
 > The HTTP cache stores a response associated with a request and reuses the stored response for subsequent requests.
