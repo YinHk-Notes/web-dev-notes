@@ -30,7 +30,7 @@
 - 最常使用的 Method
 - 例如：要去某個網址、看某張圖片
 - 傳送的資料會以 Query String 的方式加在 url 上
-- GET requests can be cached
+- GET requests **can be cached**
 - GET requests remain in the browser history
 - GET requests can be bookmarked
 - GET requests should never be used when dealing with sensitive data
@@ -43,7 +43,7 @@
 
 - 例如：登入會員、送出表單
 - 獲取「指定的」資訊，放在 request body(Form data）裡面
-- POST requests are never cached
+- POST requests are **never cached**
 - POST requests do not remain in the browser history
 - POST requests cannot be bookmarked
 - POST requests have no restrictions on data length
